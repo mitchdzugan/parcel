@@ -22,7 +22,7 @@
   },
   "dependencies": {
     "@parcel/config-default": "2.7.0",
-    "@parcel/core": "2.7.0",
+    "@parcel/core": "https://gitpkg.now.sh/mitchdzugan/parcel/packages/core/core?v2'",
     "@parcel/diagnostic": "2.7.0",
     "@parcel/events": "2.7.0",
     "@parcel/fs": "2.7.0",
